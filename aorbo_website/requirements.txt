@@ -1,0 +1,4 @@
+Django==5.0.1
+mysqlclient==2.2.7
+requests==2.31.0
+pyngrok==6.0.0
